@@ -5,13 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d23167d3-897f-4bb2-91ee-94eb784f3b37" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Managing files/getting dir.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Managing files/guests" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Managing files/lyric" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Managing files/os_module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Managing files/working with dir.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Managing_files/isDir.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Managing_files/moving_files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Managing_files/new dir/test2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reading_&amp;_writing_files/file" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Working_with_csv/csv_reader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Working_with_csv/csv_writer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Working_with_csv/test.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reading &amp; writing files/new file" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Managing files/file" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Managing files/getting dir.py" beforeDir="false" afterPath="$PROJECT_DIR$/Managing_files/getting dir.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Managing files/guests" beforeDir="false" afterPath="$PROJECT_DIR$/Managing_files/guests" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Managing files/lyric" beforeDir="false" afterPath="$PROJECT_DIR$/Managing_files/lyric" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Managing files/os_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/Managing_files/os_module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Managing files/working with dir.py" beforeDir="false" afterPath="$PROJECT_DIR$/Managing_files/working with dir.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reading &amp; writing files/Reading_files.py" beforeDir="false" afterPath="$PROJECT_DIR$/Reading_&amp;_writing_files/Reading_files.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reading &amp; writing files/file" beforeDir="false" afterPath="$PROJECT_DIR$/Managing_files/new dir/test1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reading &amp; writing files/guests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Reading_&amp;_writing_files/guests.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reading &amp; writing files/lyric" beforeDir="false" afterPath="$PROJECT_DIR$/Reading_&amp;_writing_files/lyric" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reading &amp; writing files/managing_files.py" beforeDir="false" afterPath="$PROJECT_DIR$/Reading_&amp;_writing_files/managing_files.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,9 +51,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Reading_files.executor": "Run",
+    "Python.csv_reader.executor": "Run",
+    "Python.csv_writer.executor": "Run",
     "Python.files_practice.executor": "Run",
     "Python.getting dir.executor": "Run",
+    "Python.isDir.executor": "Run",
+    "Python.iterating thru dir.executor": "Run",
     "Python.managing_files.executor": "Run",
+    "Python.moving_files.executor": "Run",
     "Python.os_module.executor": "Run",
     "Python.working with dir.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -80,7 +97,7 @@
       <workItem from="1730263765328" duration="1626000" />
       <workItem from="1730382375702" duration="728000" />
       <workItem from="1730443217467" duration="11505000" />
-      <workItem from="1730532602942" duration="5322000" />
+      <workItem from="1730532602942" duration="9805000" />
     </task>
     <servers />
   </component>
@@ -90,9 +107,14 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/leet$Reading_files.coverage" NAME="Reading_files Coverage Results" MODIFIED="1730448732136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reading &amp; writing files" />
     <SUITE FILE_PATH="coverage/leet$working_with_dir.coverage" NAME="working with dir Coverage Results" MODIFIED="1730567317157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Managing files" />
+    <SUITE FILE_PATH="coverage/leet$csv_reader.coverage" NAME="csv_reader Coverage Results" MODIFIED="1730584158095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Working_with_csv" />
     <SUITE FILE_PATH="coverage/leet$managing_files.coverage" NAME="managing_files Coverage Results" MODIFIED="1730566363178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reading &amp; writing files" />
     <SUITE FILE_PATH="coverage/leet$getting_dir.coverage" NAME="getting dir Coverage Results" MODIFIED="1730566458879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Managing files" />
+    <SUITE FILE_PATH="coverage/leet$csv_writer.coverage" NAME="csv_writer Coverage Results" MODIFIED="1730584304579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Working_with_csv" />
     <SUITE FILE_PATH="coverage/leet$files_practice.coverage" NAME="files_practice Coverage Results" MODIFIED="1730534937329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reading &amp; writing files" />
+    <SUITE FILE_PATH="coverage/leet$iterating_thru_dir.coverage" NAME="iterating thru dir Coverage Results" MODIFIED="1730568086132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Managing files" />
     <SUITE FILE_PATH="coverage/leet$os_module.coverage" NAME="os_module Coverage Results" MODIFIED="1730566700642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Managing files" />
+    <SUITE FILE_PATH="coverage/leet$moving_files.coverage" NAME="moving_files Coverage Results" MODIFIED="1730582889021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Managing files" />
+    <SUITE FILE_PATH="coverage/leet$isDir.coverage" NAME="isDir Coverage Results" MODIFIED="1730568187641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Managing files" />
   </component>
 </project>

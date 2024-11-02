@@ -9,5 +9,5 @@ import os
 os.rmdir("temp")
 print("new dir has been removed")
 
-# print("List of files in leet: ", os.listdir("Managing files"))
+# print("List of files in leet: ", os.listdir("Managing_files"))
 
