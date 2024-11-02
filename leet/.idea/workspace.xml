@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d23167d3-897f-4bb2-91ee-94eb784f3b37" name="Changes" comment="" />
+    <list default="true" id="d23167d3-897f-4bb2-91ee-94eb784f3b37" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Managing files/getting dir.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Managing files/guests" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Managing files/lyric" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Managing files/os_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Managing files/working with dir.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reading &amp; writing files/new file" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +25,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -25,19 +36,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Reading_files.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/OWNER/Downloads/Python/leet&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Reading_files.executor": "Run",
+    "Python.files_practice.executor": "Run",
+    "Python.getting dir.executor": "Run",
+    "Python.managing_files.executor": "Run",
+    "Python.os_module.executor": "Run",
+    "Python.working with dir.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/OWNER/Downloads/E-Commerce-App-Python",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\OWNER\Downloads\FLASK\leet\Reading &amp; writing files" />
@@ -62,7 +79,8 @@
       <workItem from="1730243855734" duration="3566000" />
       <workItem from="1730263765328" duration="1626000" />
       <workItem from="1730382375702" duration="728000" />
-      <workItem from="1730443217467" duration="6596000" />
+      <workItem from="1730443217467" duration="11505000" />
+      <workItem from="1730532602942" duration="5322000" />
     </task>
     <servers />
   </component>
@@ -71,5 +89,10 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/leet$Reading_files.coverage" NAME="Reading_files Coverage Results" MODIFIED="1730448732136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reading &amp; writing files" />
+    <SUITE FILE_PATH="coverage/leet$working_with_dir.coverage" NAME="working with dir Coverage Results" MODIFIED="1730567317157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Managing files" />
+    <SUITE FILE_PATH="coverage/leet$managing_files.coverage" NAME="managing_files Coverage Results" MODIFIED="1730566363178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reading &amp; writing files" />
+    <SUITE FILE_PATH="coverage/leet$getting_dir.coverage" NAME="getting dir Coverage Results" MODIFIED="1730566458879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Managing files" />
+    <SUITE FILE_PATH="coverage/leet$files_practice.coverage" NAME="files_practice Coverage Results" MODIFIED="1730534937329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reading &amp; writing files" />
+    <SUITE FILE_PATH="coverage/leet$os_module.coverage" NAME="os_module Coverage Results" MODIFIED="1730566700642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Managing files" />
   </component>
 </project>
